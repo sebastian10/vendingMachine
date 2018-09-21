@@ -1,0 +1,7 @@
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\obj\Debug\Getränkeautomat.csprojAssemblyReference.cache
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\obj\Debug\Getränkeautomat.csproj.CoreCompileInputs.cache
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\bin\Debug\Getränkeautomat.exe.config
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\bin\Debug\Getränkeautomat.exe
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\bin\Debug\Getränkeautomat.pdb
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\obj\Debug\Getränkeautomat.exe
+c:\users\sebastian\source\repos\Getränkeautomat\Getränkeautomat\obj\Debug\Getränkeautomat.pdb
